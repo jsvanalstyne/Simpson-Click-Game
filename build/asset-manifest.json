@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Simpson-Click-Game/static/css/main.18c24124.chunk.css",
-    "main.js": "/Simpson-Click-Game/static/js/main.20a838b5.chunk.js",
-    "main.js.map": "/Simpson-Click-Game/static/js/main.20a838b5.chunk.js.map",
+    "main.js": "/Simpson-Click-Game/static/js/main.cad5a086.chunk.js",
+    "main.js.map": "/Simpson-Click-Game/static/js/main.cad5a086.chunk.js.map",
     "runtime-main.js": "/Simpson-Click-Game/static/js/runtime-main.c7622434.js",
     "runtime-main.js.map": "/Simpson-Click-Game/static/js/runtime-main.c7622434.js.map",
     "static/js/2.6a03fab3.chunk.js": "/Simpson-Click-Game/static/js/2.6a03fab3.chunk.js",
     "static/js/2.6a03fab3.chunk.js.map": "/Simpson-Click-Game/static/js/2.6a03fab3.chunk.js.map",
     "index.html": "/Simpson-Click-Game/index.html",
-    "precache-manifest.d3ff7610543d28191d8a93b410ada7c4.js": "/Simpson-Click-Game/precache-manifest.d3ff7610543d28191d8a93b410ada7c4.js",
+    "precache-manifest.4fd733ac66d9a1979caeb081b69f5eb9.js": "/Simpson-Click-Game/precache-manifest.4fd733ac66d9a1979caeb081b69f5eb9.js",
     "service-worker.js": "/Simpson-Click-Game/service-worker.js",
     "static/css/main.18c24124.chunk.css.map": "/Simpson-Click-Game/static/css/main.18c24124.chunk.css.map",
     "static/js/2.6a03fab3.chunk.js.LICENSE.txt": "/Simpson-Click-Game/static/js/2.6a03fab3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c7622434.js",
     "static/js/2.6a03fab3.chunk.js",
     "static/css/main.18c24124.chunk.css",
-    "static/js/main.20a838b5.chunk.js"
+    "static/js/main.cad5a086.chunk.js"
   ]
 }
