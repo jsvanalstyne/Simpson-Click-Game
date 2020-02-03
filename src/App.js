@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import Jumbo from "./components/Jumbo";
 import FunCard from "./components/FriendCard"
 import Nav from "./components/Nav";
 import Footer from "./components/Footer"
 import character from "./simpson.json";
-import Container from "./components/Container"
-import Wrapper from "./components/Wrapper"
+
 class App extends Component {
   state= {
     score: 0,
@@ -16,7 +14,7 @@ class App extends Component {
     alreadyClicked: []
     
   }
-
+// ------------------------Main Game Function---------------------------------
   handleClick = id => {
   
     this.setState({
@@ -48,7 +46,6 @@ class App extends Component {
   render() {
     
     return (
-      // <Wrapper>
       <div>
         <Nav game="Clicky Game" start="Click on an image to begin" score={this.state.score} topscore={this.state.topscore}></Nav>
      
