@@ -6,6 +6,7 @@ import FunCard from "./components/FriendCard"
 import Nav from "./components/Nav";
 import Footer from "./components/Footer"
 import character from "./simpson.json";
+import Container from "./components/Container"
 class App extends Component {
   state= {
     score: 0,
@@ -24,12 +25,13 @@ class App extends Component {
         <h1>Clicky Game!</h1>
         <h2>Click on an image to earn points, but don't click on any more than once!</h2>
       </Jumbo>
-      <div className="container">
+      <Container>
         {this.state.character.map(characters=>(
           <FunCard id={characters.id} url={characters.url} clicked={characters.clicked}
           ></FunCard>
           ))}
-      </div>
+         
+      </Container>
       <Footer></Footer>
       </div>
     )

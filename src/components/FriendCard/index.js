@@ -4,10 +4,9 @@ import "./style.css"
 function FunCard(props) {
     return (
         <div>
-            <div class="card" >
-                <img src={props.image}class="card-img-top" alt="..."/>
-                    
-             </div>
+            <div className="card col-2 ml-3 mr-3 mb-3">
+            <img className="images" onClick={() => props.handleClick(props.id)} clicked={props.clicked} key={props.id} id={props.id} src={props.url} className="card-img-top" alt="..." />
+        </div>
             </div>
             )
         
