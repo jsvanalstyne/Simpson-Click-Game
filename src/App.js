@@ -57,11 +57,12 @@ class App extends Component {
         <h2>Click on an image to earn points, but don't click on any more than once!</h2>
       </Jumbo>
       <div className="container">
+        <div className="row">
         {this.state.character.map(characters=>(
           <FunCard id={characters.id} url={characters.url} clicked={characters.clicked} handleClick={this.handleClick}
           ></FunCard>
           ))}
-         
+         </div>
       </div>
       <Footer></Footer>
       </div>
