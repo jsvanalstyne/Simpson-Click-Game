@@ -1,0 +1,33 @@
+.jumbo {
+    height: 550px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  
+  .jumbo::after {
+    content: "";
+    display: block;
+    opacity: .4;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+  }
+  
+  .jumbo * {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .jumbo h1, .jumbo h2 {
+    color: white;
+  }
+  
+  .jumbo h1 {
+    font-size: 60px;
+    padding-top: 140px;
+    margin-top: 0;
+  }

@@ -1,0 +1,65 @@
+[
+      {
+        "id": 1,
+        "url": "/assets/abu.png",
+        "clicked": "false"
+      },
+      
+        {
+          "id": 2,
+        "url": "/assets/barney-simpsons-png-7.png",
+        "clicked": "false"
+        },
+        {
+          "id": 3,
+        "url": "/assets/cartoon-clown-png-2.png",
+        "clicked": "false"
+        },
+        {
+          "id": 4,
+        "url": "/assets/grandpa.png",
+        "clicked": "false"
+        },
+        {
+          "id": 5,
+        "url": "/assets/Lenny_Leonard.png",
+        "clicked": "false"
+        },
+        {
+          "id": 6,
+        "url": "/assets/lisa.png",
+        "clicked": "false"
+        },
+        {
+          "id": 7,
+        "url": "/assets/Maggie_Simpson.png",
+        "clicked": "false"
+        },
+        {
+          "id": 8,
+        "url": "/assets/Marge_Simpson.png",
+        "clicked": "false"
+        },
+        {
+          "id": 9,
+        "url": "/assets/Milhouse_Van_Houten_2.png",
+        "clicked": "false"
+        },
+        {
+          "id": 10,
+        "url": "/assets/Mr_Burns.png",
+        "clicked": "false"
+        },
+        {
+          "id": 11,
+        "url": "/public/assets/Ned_Flanders.png",
+        "clicked": "false"
+        },
+        {
+          "id": 12,
+        "url": "/assets/Homer_Simpson/png",
+        "clicked": "false"
+        }
+
+      
+]
