@@ -1,64 +1,64 @@
 [
       {
         "id": 1,
-        "url": "./Assets/abu.png",
-        "clicked": "false"
+        "url": "./Assets/abu.png"
+       
       },
       
         {
           "id": 2,
-        "url": "./Assets/barney-simpsons-png-7.png",
-        "clicked": "false"
+        "url": "./Assets/barney-simpsons-png-7.png"
+        
         },
         {
           "id": 3,
-        "url": "./Assets/cartoon-clown-png-2.png",
-        "clicked": "false"
+        "url": "./Assets/cartoon-clown-png-2.png"
+      
         },
         {
           "id": 4,
-        "url": "./Assets/grandpa.png",
-        "clicked": "false"
+        "url": "./Assets/grandpa.png"
+     
         },
         {
           "id": 5,
-        "url": "./Assets/Lenny_Leonard.png",
-        "clicked": "false"
+        "url": "./Assets/Lenny_Leonard.png"
+     
         },
         {
           "id": 6,
-        "url": "./Assets/lisa.png",
-        "clicked": "false"
+        "url": "./Assets/lisa.png"
+      
         },
         {
           "id": 7,
-        "url": "./Assets/Maggie_Simpson.png",
-        "clicked": "false"
+        "url": "./Assets/Maggie_Simpson.png"
+       
         },
         {
           "id": 8,
-        "url": "./Assets/Marge_Simpson.png",
-        "clicked": "false"
+        "url": "./Assets/Marge_Simpson.png"
+       
         },
         {
           "id": 9,
-        "url": "./Assets/Milhouse_Van_Houten_2.png",
-        "clicked": "false"
+        "url": "./Assets/Milhouse_Van_Houten_2.png"
+       
         },
         {
           "id": 10,
-        "url": "./Assets/Mr_Burns.png",
-        "clicked": "false"
+        "url": "./Assets/Mr_Burns.png"
+       
         },
         {
           "id": 11,
-        "url": "./Assets/Ned_Flanders.png",
-        "clicked": "false"
+        "url": "./Assets/Ned_Flanders.png"
+        
         },
         {
           "id": 12,
-        "url": "./Assets/Homer_Simpson.png",
-        "clicked": "false"
+        "url": "./Assets/Homer_Simpson.png"
+       
         }
 
       
