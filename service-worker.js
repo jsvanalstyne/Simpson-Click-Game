@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Simpson-Click-Game/precache-manifest.be33355251430a9ebbb6c2aeb740e948.js"
+  "/Simpson-Click-Game/precache-manifest.16d570d37beea5feeb9174a21e5721f3.js"
 );
 
 self.addEventListener('message', (event) => {

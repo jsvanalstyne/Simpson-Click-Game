@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "820c9c38904d45f8ddf94f26f00f3cb9",
+    "revision": "99f39d98783ee5ad5923f30ef3056874",
     "url": "/Simpson-Click-Game/index.html"
   },
   {
-    "revision": "d437d608b1276e6d6e71",
+    "revision": "4bfda8d6e326fc997969",
     "url": "/Simpson-Click-Game/static/css/main.18c24124.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simpson-Click-Game/static/js/2.6a03fab3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d437d608b1276e6d6e71",
-    "url": "/Simpson-Click-Game/static/js/main.2eff1056.chunk.js"
+    "revision": "4bfda8d6e326fc997969",
+    "url": "/Simpson-Click-Game/static/js/main.71f6279c.chunk.js"
   },
   {
     "revision": "9e50215b6c453f878fec",
