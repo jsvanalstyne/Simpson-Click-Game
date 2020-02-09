@@ -5,7 +5,7 @@ function Nav(props){
 return(
     <ul className="nav">
     <li className="nav-item">
-    <h1><a className="nav-link" href="/">Clicky Game</a></h1>
+    <h1><a className="nav-link" href="/Simpson-Click-Game/">Clicky Game</a></h1>
     </li>
     <li className="nav-item">
      <h1>{props.start}</h1>
